@@ -1,3 +1,4 @@
+fork https://github.com/LailuoA77/HIWIFI_HC5611
 说明
 =
 目前市面上极路由go这款路由器算是比较小巧的路由器了，
