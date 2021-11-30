@@ -26,7 +26,7 @@ jobs:
       #更换自己的软件源
         run: |
           git clone -b master https://github.com/immortalwrt/immortalwrt.git
-          git clone -b by_immortalwrt https://github.com/arlenlee/HIWIFI_Go.git      
+          git clone -b main https://github.com/arlenlee/HIWIFI_Go.git      
           echo "数据克隆结束！"
           
       #将文件覆盖到openwrt根目录下
